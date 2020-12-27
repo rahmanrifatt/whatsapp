@@ -1,0 +1,332 @@
+body{
+    margin:auto 0%;
+    
+   
+ }
+ 
+ .wraffer{
+     
+     width:100%; 
+     height:auto; 
+ }
+ 
+ .header_wraffer{
+    
+     width:100%;
+     height:100px;
+     background-color: #1ebea5; 
+     
+     
+ }
+ .header_logo{
+     margin-left: 50px;
+     width: 20%;
+     
+     height: 100px;
+     display: inline;
+     
+     
+     
+    
+     
+     
+     
+    
+     
+
+ }
+ .logo{
+     width: 4%;
+    
+    
+     height: auto;
+     
+    
+     
+    
+    
+ }
+ .logo img{
+     width: 100%;
+    
+     float: left;
+     margin-left: 150px;
+    
+ }
+ .name{
+     width: 15%;
+     float: left;
+     margin-left: 1%;
+     margin-top: 7px;
+
+
+
+     
+    
+     
+     
+    
+     
+ }
+ 
+ .name h1{
+     
+   
+     color: rgb(12, 11, 11);
+     font-size: 20px;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     color: white;
+    
+    
+     
+    
+     
+     
+     
+ }
+
+
+
+
+
+ .menu_conteinar{
+    width:65%;
+     height:50px;
+     float: left;
+     margin-left: 35%;
+    
+     text-align: center;
+     margin-top: -50px;
+     
+ }
+     
+    
+     
+     
+    
+    
+
+
+
+ 
+ .menu{
+    
+     width:100%;
+     
+     float: right;
+     
+    
+    
+     
+     
+     
+ }
+
+
+
+ .menu ul{
+    list-style: none;
+    
+  
+   
+    
+}
+.menu ul li{
+    display:inline-block;
+    
+}
+.menu ul li a{
+    text-decoration: none;
+    color:white;
+    font-size:15px;
+    padding:10px 30px;
+    font-style: initial;
+
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+   
+}
+.body1{
+    width: 55%;
+    
+    height: 600px;
+   
+   
+}
+.body_msg{
+    margin-left: 10%;
+    padding:150px 150px;
+   
+
+}
+.body_msg h1{
+    font-size: 35px;
+    font-style: inherit;
+    color:#727577;
+    
+    
+}
+.body_msg h2{
+    font-size: 15px;
+    font-style: inherit;
+    color:#909396;
+    
+
+}
+.body_msg h6{
+    font-size: 10px;
+    font-style: inherit;
+    color:#b8bec5;
+   
+
+}
+.icon img{
+    padding:10px;
+    margin-left: 27%;
+    margin-top: -30%;
+}
+.mobile_img{
+    width: 45%;
+    float: right;
+    margin-top: -550px;
+    
+   
+   
+}
+.mobile_img img{
+    width: 50%;
+   
+    
+}
+.body2{
+    color: rgba(0, 0, 0, .5);
+    background-color: rgb(193, 247, 242);
+    width: 49%;
+    margin-top: 100px;
+    height: 710px;
+   
+    
+   
+  
+}
+.body2 h1{
+    text-align: center;
+}
+.body2 p{
+    text-align: center;
+}
+.img{
+    width: 40%;
+    margin-top: -100px;
+    padding: 200px;
+   
+   
+}
+
+.img img{
+    width: 100%;
+    
+
+    
+}
+.body4{
+    background-color: rgb(207, 227, 235);
+    width: 49%;
+    height: 710px;
+    float: right;
+    margin-top: -710px;
+}
+.circle{
+    width: 100%;
+    text-align: center;
+    margin-top: 400px;
+    
+  
+}
+.circle h3{
+    font-size: 30px;
+    width: 100%;
+    
+    
+    
+}
+.k{
+    text-align: center;
+    margin-top: 100px;
+    height: 50%;
+    width: 100%;
+    border-radius: 50px;
+    
+}
+.k button{
+    height: 50px;
+    width: 300px;
+    border: 3px solid;
+    border-radius: 25px 25px;
+    color: #1ebea5;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.list{
+    
+    padding: 30px;
+    width: 100%;
+    height: 350px;
+    background-color: #17212d;
+    margin-top: 50px;
+}
+.list ul{
+    list-style: none;
+}
+
+.list_menu1{
+    float: left;
+   
+    width: 25%;
+}
+.list_menu2{
+    float: left;
+   
+    width: 25%;
+}
+.list_menu3{
+    float: left;
+   
+    width: 25%;
+}
+.list_menu4{
+    float: left;
+   
+    width: 25%;
+}
+.list h3{
+    margin-left: 15%;
+    color: rgb(145, 141, 141);
+    margin-top: 70px;
+}
+.list ul li a{
+    text-decoration: none;
+    color: rgb(222, 236, 236);
+    font-size:15px;
+    padding:10px 15px;
+    display:block;
+}
+
+.footer{
+    background-color: #1d2630;
+    margin-top: -18px;
+    height: 50px;
+    
+    
+}
+.footer p{
+    margin-left: 10%;
+    padding: 20px;
+}
+.footer h5{
+    margin-left: 40%;
+    margin-top: -50px;
+}
+
+
+ 
+ 
